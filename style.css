@@ -3,12 +3,20 @@
 body{
     background-color: black;
     color: #09fa15;
-    font-size: 80px;
+    font-size: 12vw;
     font-family: 'Orbitron', sans-serif;
 }
 .box{
-    padding-top: 200px;
+    padding-top: 8%;
     text-align: center;
+}
+.datee{
+    text-align: center;
+    font-size: 6vw;
+}
+.day{
+    text-align: center;
+    font-size: 5vw;
 }
 .foot{
     left: 0;
